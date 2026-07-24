@@ -50,11 +50,3 @@ Current Focus
 - Improving user experience through clean and modern design
 
 Thanks for visiting my profile.
-
-GitHub Statistics
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Chaxyzzz&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    alt="GitHub Stats"
-  />
-</p>
