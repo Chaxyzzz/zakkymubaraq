@@ -3,11 +3,11 @@ Founder of ATLAS Studio
 I build educational platforms and creative tools.
 
 Currently Building
-ATLAS Study
-ATLAS Academy
-ATLAS Reading
-ATLAS Colopet
-ATLAS Forms
+- ATLAS Study
+- ATLAS Academy
+- ATLAS Reading
+- ATLAS Colopet
+- ATLAS Forms
 
 Skills
 - Laravel
