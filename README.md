@@ -7,6 +7,7 @@ About Me
 - Photographer
 - Videographer
 - Graphic Designer
+- Editor
 
 Currently Building
 - ATLAS Study
