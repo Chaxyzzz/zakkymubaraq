@@ -54,7 +54,7 @@ Thanks for visiting my profile.
 GitHub Statistics
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=zakkymubaraq&show_icons=true&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=Chaxyzzz&show_icons=true&theme=github_dark&hide_border=true"
     height="180"
   />
 </p>
