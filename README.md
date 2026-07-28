@@ -9,21 +9,6 @@ About Me
 - Graphic Designer
 - Editor
 
-Currently Building
-- ATLAS Study
-- ATLAS Academy
-- ATLAS Reading
-- ATLAS Colopet
-- ATLAS Forms
-- ATLAS Shop
-- ATLAS Compres
-- ATLAS Conver
-- ATLAS OCR
-- ATLAS Scanner
-- ATLAS AI
-- ATLAS Jockey
-- ATLAS Account
-
 Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
