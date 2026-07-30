@@ -1,47 +1,88 @@
+<div align="center">
+
 # Zakky Mubaraq
 
-Founder of **ATLAS Studio**
+### Founder & Software Engineer
+
+ATLAS Studio
+
+Building modern digital products through software engineering, design, and creativity.
+
+</div>
 
 ---
 
-Software Developer
+<table>
+<tr>
 
-Creative Technologist
+<td width="50%" valign="top">
 
-Photographer
+## About
 
-Videographer
+I am a software developer focused on building clean, scalable, and modern web applications.
 
-Graphic Designer
+I enjoy combining software engineering with photography, videography, graphic design, and digital product development.
+
+</td>
+
+<td width="50%" valign="top">
+
+## Focus
+
+- Software Engineering
+- Backend Development
+- Laravel
+- PHP
+- MySQL
+- UI / UX Design
+- Photography
+- Videography
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-I create modern digital experiences by combining software engineering with visual creativity.
+## Technology
 
-Every project is an opportunity to build something meaningful, improve continuously, and deliver value through thoughtful design and clean architecture.
+<table>
 
----
+<tr>
 
-## Expertise
+<td>Laravel</td>
+<td>PHP</td>
+<td>MySQL</td>
+<td>JavaScript</td>
 
-Software Engineering
+</tr>
 
-Backend Development
+<tr>
 
-Laravel
+<td>HTML5</td>
+<td>CSS3</td>
+<td>Git</td>
+<td>GitHub</td>
 
-UI / UX
+</tr>
 
-Photography
+<tr>
 
-Videography
+<td>VS Code</td>
+<td>Figma</td>
+<td>REST API</td>
+<td>MVC</td>
 
-Graphic Design
+</tr>
+
+</table>
 
 ---
 
 ## Philosophy
 
+```
 Less complexity.
 
 More clarity.
@@ -53,45 +94,72 @@ More impact.
 Less features.
 
 More value.
+```
 
 ---
 
-## Technologies
+## Principles
 
-Laravel
+```
+✔ Clean Code
 
-PHP
+✔ Scalable Architecture
 
-MySQL
+✔ Performance First
 
-JavaScript
+✔ Continuous Learning
 
-HTML
+✔ User-Centered Design
 
-CSS
-
-Git
-
-GitHub
-
-Visual Studio Code
-
-Figma
+✔ Long-Term Maintainability
+```
 
 ---
 
 ## Contact
 
+<table>
+
+<tr>
+
+<td>
+
 GitHub
+
+</td>
+
+<td>
 
 github.com/Chaxyzzz
 
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
 Email
+
+</td>
+
+<td>
 
 mubaraqzakky51@gmail.com
 
+</td>
+
+</tr>
+
+</table>
+
 ---
+
+<div align="center">
 
 ATLAS Studio
 
 Building digital products with purpose.
+
+</div>
